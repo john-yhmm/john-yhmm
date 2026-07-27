@@ -1,6 +1,6 @@
 ### Hi, I'm Ye Htet Maung Maung 👋
 
-Full-Stack Developer with two years of experience building and maintaining a multi-tenant ERP platform used daily by 100+ SME clients, plus independent projects across the same stack.
+Full-Stack Developer with two years of experience building and maintaining ERP platforms used daily by 100+ SME clients, plus independent projects across the same stack.
 
 **Currently:** completing a degree in Computer Science at KMUTT, Bangkok
 
