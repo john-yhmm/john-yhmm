@@ -24,8 +24,6 @@ Backend Developer with two years of experience building and maintaining ERP plat
 
 **[DocuParse](https://github.com/john-yhmm/docuparse)** — AI-powered invoice-processing tool that extracts structured data from various formats in seconds, using the Claude API. [Live demo](https://docuparse-five.vercel.app/)
 
-**[FloodAid](https://github.com/john-yhmm/floodaid)** — Rescue-dispatch system for a flood disaster-response platform: automatic rescuer assignment with 60-second reassignment on timeout.
-
 ---
 
 ### Connect
